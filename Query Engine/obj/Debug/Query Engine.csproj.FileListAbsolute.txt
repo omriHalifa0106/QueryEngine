@@ -1,0 +1,7 @@
+C:\Users\halif\programming\Query Engine\Query Engine\bin\Debug\Query Engine.exe.config
+C:\Users\halif\programming\Query Engine\Query Engine\bin\Debug\Query Engine.exe
+C:\Users\halif\programming\Query Engine\Query Engine\bin\Debug\Query Engine.pdb
+C:\Users\halif\programming\Query Engine\Query Engine\obj\Debug\Query Engine.csproj.AssemblyReference.cache
+C:\Users\halif\programming\Query Engine\Query Engine\obj\Debug\Query Engine.csproj.CoreCompileInputs.cache
+C:\Users\halif\programming\Query Engine\Query Engine\obj\Debug\Query Engine.exe
+C:\Users\halif\programming\Query Engine\Query Engine\obj\Debug\Query Engine.pdb
